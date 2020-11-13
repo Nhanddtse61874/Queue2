@@ -1,0 +1,16 @@
+E:\capstoneProject\TesTQueue\TesTQueue\bin\Debug\netcoreapp3.1\TesTQueue.exe
+E:\capstoneProject\TesTQueue\TesTQueue\obj\Debug\netcoreapp3.1\TesTQueue.csprojAssemblyReference.cache
+E:\capstoneProject\TesTQueue\TesTQueue\obj\Debug\netcoreapp3.1\TesTQueue.AssemblyInfoInputs.cache
+E:\capstoneProject\TesTQueue\TesTQueue\obj\Debug\netcoreapp3.1\TesTQueue.AssemblyInfo.cs
+E:\capstoneProject\TesTQueue\TesTQueue\bin\Debug\netcoreapp3.1\TesTQueue.deps.json
+E:\capstoneProject\TesTQueue\TesTQueue\bin\Debug\netcoreapp3.1\TesTQueue.runtimeconfig.json
+E:\capstoneProject\TesTQueue\TesTQueue\bin\Debug\netcoreapp3.1\TesTQueue.runtimeconfig.dev.json
+E:\capstoneProject\TesTQueue\TesTQueue\bin\Debug\netcoreapp3.1\TesTQueue.dll
+E:\capstoneProject\TesTQueue\TesTQueue\bin\Debug\netcoreapp3.1\TesTQueue.pdb
+E:\capstoneProject\TesTQueue\TesTQueue\bin\Debug\netcoreapp3.1\Azure.Core.dll
+E:\capstoneProject\TesTQueue\TesTQueue\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+E:\capstoneProject\TesTQueue\TesTQueue\bin\Debug\netcoreapp3.1\Azure.Storage.Queues.dll
+E:\capstoneProject\TesTQueue\TesTQueue\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\capstoneProject\TesTQueue\TesTQueue\obj\Debug\netcoreapp3.1\TesTQueue.csproj.CopyComplete
+E:\capstoneProject\TesTQueue\TesTQueue\obj\Debug\netcoreapp3.1\TesTQueue.dll
+E:\capstoneProject\TesTQueue\TesTQueue\obj\Debug\netcoreapp3.1\TesTQueue.pdb
